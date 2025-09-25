@@ -18,4 +18,17 @@ python main.py
 ## Example Output
 (As of 26th of September, 2025)
 
-![](./example-images/Wordcloud.png)
+### Wordcloud
+![Wordcloud](./example-images/Wordcloud.png)
+
+### Polarity Categorised
+![Polarity Categorised into positive, negative, or neutral](./example-images/Polarity-Categorised.png)
+
+### Subjectivity Categorised
+![Subjectivity Categorised into objective, slightly subjective, fairly subjective, or subjective](./example-images/Subjectivity-Categorised.png)
+
+### Polarity
+![Polarity by article](./example-images/Polarity.png)
+
+### Subjectivity
+![Subjectivity by article](./example-images/Subjectivity.png)
