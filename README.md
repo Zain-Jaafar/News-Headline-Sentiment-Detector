@@ -14,3 +14,8 @@ To run the script, use this command:
 ```bash
 python main.py
 ```
+
+## Example Output
+(As of 26th of September, 2025)
+
+![](./example-images/Wordcloud)
