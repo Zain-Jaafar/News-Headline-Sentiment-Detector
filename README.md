@@ -1,6 +1,6 @@
 # News Headline Sentiment Detector
 
-This is a simple Python script that takes the titles and descriptions of recent BCC articles and displays the polarity (how positive or negative the articles are) and the subjectivity, as well as a wordcloud to see the most common keywords.
+This is a simple Python script that pulls recent articles from BBC's RSS feed and, using the titles and descriptions of the articles, displays the polarity (how positive or negative the articles are) and the subjectivity, as well as a wordcloud to see the most common keywords.
 
 ## Usage
 First, open a terminal and navigate to the project directory.
